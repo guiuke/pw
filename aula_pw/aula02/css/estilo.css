@@ -1,0 +1,13 @@
+body{
+    background-color: #ddd;
+}
+.título{
+    color:#4f3
+}
+#cx1{
+    width:800px;
+    height:500px;
+    margin:auto;
+    position: relative;
+    border: 1px solid #f00;
+}

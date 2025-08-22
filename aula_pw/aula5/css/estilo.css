@@ -1,0 +1,38 @@
+#cxprinc{
+    width: 1000px;
+    height: 1200px;
+    background-color: #ddd;
+    position: relative;
+    margin: auto;
+}
+#cxmenu{
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    margin-top: 5px;
+    background-color: #f00;
+}
+#cxcorpo{
+    width: 100%;
+    height: 735px;
+    position: absolute;
+    background-color: #f000ff;
+    margin-top: 255px;
+    
+}
+#cxbaner{
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    background-color: #00f;
+    margin-top: 50px;
+
+}
+#cxrodape{
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    background-color: #1281ff;
+    margin-top: 995px;
+
+}

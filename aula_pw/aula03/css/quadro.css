@@ -1,0 +1,9 @@
+#cxprincipal{
+    width: 500px;
+    height: 400px;
+    margin :auto;
+    border: 1px solid #000;
+    background-color: #ffd2cf;
+    text-align: center;
+    align-content: center;
+}
